@@ -1193,6 +1193,13 @@
       "/data/v2/arena.json": 48,
       "/data/v2/llmstats.json": 47,
       "/data/benchmarks.json": 0
+    },
+    "2026-10-11": {
+      "/data/v2/aa.json": 1423,
+      "/data/v2/epoch.json": 38,
+      "/data/v2/arena.json": 38,
+      "/data/v2/llmstats.json": 38,
+      "/data/benchmarks.json": 95
     }
   }
 }
