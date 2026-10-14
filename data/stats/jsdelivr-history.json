@@ -1200,6 +1200,13 @@
       "/data/v2/arena.json": 38,
       "/data/v2/llmstats.json": 38,
       "/data/benchmarks.json": 95
+    },
+    "2026-10-12": {
+      "/data/v2/aa.json": 71,
+      "/data/v2/epoch.json": 59,
+      "/data/v2/arena.json": 66,
+      "/data/v2/llmstats.json": 58,
+      "/data/benchmarks.json": 0
     }
   }
 }
